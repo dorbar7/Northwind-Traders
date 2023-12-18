@@ -1,0 +1,4 @@
+17/11/2022, 13:48:41 	 You are not logged in
+----------------------------
+17/11/2022, 13:48:53 	 ER_NO_SUCH_TABLE: Table 'northwind.forum' doesn't exist
+----------------------------
